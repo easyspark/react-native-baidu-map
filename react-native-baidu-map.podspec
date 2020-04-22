@@ -56,6 +56,6 @@ Pod::Spec.new do |s|
 
   # s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   s.dependency "React"
-  s.dependency 'BaiduMapKit', '4.2.0'
+  s.dependency 'BaiduMapKit', '3.4.4'
   s.dependency 'BMKLocationKit', '1.3.0.2'
 end
